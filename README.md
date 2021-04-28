@@ -18,8 +18,23 @@ Natural Language Processing (NLP) is a field of AI which gives the machines the 
   <img src="https://github.com/SuvanshVaid27/NLP-Projects/blob/main/images/imdb.jpeg" width="800" height = "400" title="hover text">
 </p>
 
-<hr>
 
   - In this project I built a binary classification on an IMDB movies dataset that puts movie reviews texts into one of two categories — negative or positive sentiment. I used some popular text classification algorithms including the Naive Bayes family of algorithms, support vector machines (SVM) and the plain old logistic regression.
+
+<hr>
+
+## [Fake news classifier](https://github.com/SuvanshVaid27/66-days-of-Data/blob/main/Day%2037%20-%20Fake%20news%20classifier%20LSTM/LSTMclassifier.md)
+
+
+<p>
+  <img src="https://github.com/SuvanshVaid27/NLP-Projects/blob/main/images/fake%20news.jpeg" width="800" height = "400" title="hover text">
+</p>
+
+
+  - In this project, I implemented the LSTM (Long short-term memory) model to classify fake news based on the title of the news. LSTM is an artificial neural network used in the field of deep learning and is heavily used in NLP based tasks.
+
+
+
+
 
 
