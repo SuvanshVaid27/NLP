@@ -33,6 +33,18 @@ Natural Language Processing (NLP) is a field of AI which gives the machines the 
 
   - In this project, I implemented the LSTM (Long short-term memory) model to classify fake news based on the title of the news. LSTM is an artificial neural network used in the field of deep learning and is heavily used in NLP based tasks.
 
+<hr>
+
+## [Predicting Stock Movement](https://github.com/SuvanshVaid27/Stock-Movement-Prediction/blob/main/stock_sentiment.ipynb)
+
+<p>
+  <img src="https://github.com/SuvanshVaid27/NLP-Projects/blob/main/images/maxim-hopman-fiXLQXAhCfk-unsplash.jpg" width="800" height = "400" title="hover text">
+</p>
+
+  - This project uses machine learning to predict the stock movement using the news headlines dataset downloaded from the kaggle repo: https://www.kaggle.com/aaron7sun/stocknews. The dataset contains only the DJIA (Dow Jones Industrial Average) index information, but this analysis could be used for other indexes as well depending on where the news headlines are coming from.
+
+## 
+
 
 
 
