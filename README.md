@@ -2,7 +2,7 @@
 
 Natural Language Processing (NLP) is a field of AI which gives the machines the ability to read, understand and derive meaning from human languages. As an aspiring data scientist, I have always had a special interest in this field and have worked on the following NLP projects.
 
-## [US Election Twitter Datathon](https://github.com/SuvanshVaid27/twitter-datathon)
+## [US Election Twitter Datathon](https://github.com/SuvanshVaid27/NLP/tree/main/twitter-datathon)
 
 <p>
   <img src="https://github.com/SuvanshVaid27/NLP-Projects/blob/main/images/image.jpeg" width="800" height = "400" title="hover text">
