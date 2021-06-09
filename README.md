@@ -31,7 +31,7 @@ Natural Language Processing (NLP) is a field of AI which gives the machines the 
 
 
 <p>
-  <a href = 'https://github.com/SuvanshVaid27/NLP-Projects/blob/main/images/fake%20news.jpeg'>
+  <a href = 'https://github.com/SuvanshVaid27/66-days-of-Data/blob/main/Day%2037%20-%20Fake%20news%20classifier%20LSTM/LSTMclassifier.md'>
   <img src="https://github.com/SuvanshVaid27/NLP-Projects/blob/main/images/fake%20news.jpeg" width="800" height = "400" title="hover text">
   </a>
 </p>
@@ -44,7 +44,7 @@ Natural Language Processing (NLP) is a field of AI which gives the machines the 
 ## [Predicting Stock Movement](https://github.com/SuvanshVaid27/Stock-Movement-Prediction/blob/main/stock_sentiment.ipynb)
 
 <p>
-  <a href = 'https://github.com/SuvanshVaid27/NLP-Projects/blob/main/images/maxim-hopman-fiXLQXAhCfk-unsplash.jpg'>
+  <a href = 'https://github.com/SuvanshVaid27/Stock-Movement-Prediction/blob/main/stock_sentiment.ipynb'>
   <img src="https://github.com/SuvanshVaid27/NLP-Projects/blob/main/images/maxim-hopman-fiXLQXAhCfk-unsplash.jpg" width="800" height = "400" title="hover text">
   </a>
 </p>
