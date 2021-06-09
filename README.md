@@ -31,7 +31,9 @@ Natural Language Processing (NLP) is a field of AI which gives the machines the 
 
 
 <p>
+  <a href = 'https://github.com/SuvanshVaid27/NLP-Projects/blob/main/images/fake%20news.jpeg'>
   <img src="https://github.com/SuvanshVaid27/NLP-Projects/blob/main/images/fake%20news.jpeg" width="800" height = "400" title="hover text">
+  </a>
 </p>
 
 
@@ -42,7 +44,9 @@ Natural Language Processing (NLP) is a field of AI which gives the machines the 
 ## [Predicting Stock Movement](https://github.com/SuvanshVaid27/Stock-Movement-Prediction/blob/main/stock_sentiment.ipynb)
 
 <p>
+  <a href = 'https://github.com/SuvanshVaid27/NLP-Projects/blob/main/images/maxim-hopman-fiXLQXAhCfk-unsplash.jpg'>
   <img src="https://github.com/SuvanshVaid27/NLP-Projects/blob/main/images/maxim-hopman-fiXLQXAhCfk-unsplash.jpg" width="800" height = "400" title="hover text">
+  </a>
 </p>
 
   - This project uses machine learning to predict the stock movement using the news headlines dataset downloaded from the kaggle repo: https://www.kaggle.com/aaron7sun/stocknews. The dataset contains only the DJIA (Dow Jones Industrial Average) index information, but this analysis could be used for other indexes as well depending on where the news headlines are coming from.
