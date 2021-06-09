@@ -17,7 +17,9 @@ Natural Language Processing (NLP) is a field of AI which gives the machines the 
 ## [Movie Sentiment Analysis](https://github.com/SuvanshVaid27/66-days-of-Data/blob/main/Day%2022%20-%20Movie%20sentiment%20analysis%20%20ML/movie_sentiment_analysis.ipynb)
 
 <p>
+  <a href = 'https://github.com/SuvanshVaid27/66-days-of-Data/blob/main/Day%2022%20-%20Movie%20sentiment%20analysis%20%20ML/movie_sentiment_analysis.ipynb'>
   <img src="https://github.com/SuvanshVaid27/NLP-Projects/blob/main/images/imdb.jpeg" width="800" height = "400" title="hover text">
+  </a>
 </p>
 
 
