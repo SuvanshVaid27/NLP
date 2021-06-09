@@ -7,6 +7,7 @@ Natural Language Processing (NLP) is a field of AI which gives the machines the 
 <p>
   <a href = 'https://www.kaggle.com/c/mdss-basic-stream/leaderboard'>
   <img src="https://github.com/SuvanshVaid27/NLP-Projects/blob/main/images/image.jpeg" width="800" height = "400" title="hover text">
+  </a>
 </p>
 
   - This project is a part of a mini Datathon that we won as a team of 3 data scientists. The goal was to classify major events based on tweets sent by users on Twitter during the 2016 US elections. We were in the beginners stream of this competition and won the kaggle competition with a final accuracy score of 0.86703.
