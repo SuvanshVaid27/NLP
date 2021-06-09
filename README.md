@@ -5,6 +5,7 @@ Natural Language Processing (NLP) is a field of AI which gives the machines the 
 ## [US Election Twitter Datathon](https://github.com/SuvanshVaid27/NLP/tree/main/twitter-datathon)
 
 <p>
+  <a href = 'https://www.kaggle.com/c/mdss-basic-stream/leaderboard'>
   <img src="https://github.com/SuvanshVaid27/NLP-Projects/blob/main/images/image.jpeg" width="800" height = "400" title="hover text">
 </p>
 
