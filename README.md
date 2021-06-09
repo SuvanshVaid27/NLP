@@ -41,10 +41,10 @@ Natural Language Processing (NLP) is a field of AI which gives the machines the 
 
 <hr>
 
-## [Predicting Stock Movement](https://github.com/SuvanshVaid27/Stock-Movement-Prediction/blob/main/stock_sentiment.ipynb)
+## [Predicting Stock Movement](https://github.com/SuvanshVaid27/NLP/tree/main/Stock-Movement-Prediction)
 
 <p>
-  <a href = 'https://github.com/SuvanshVaid27/Stock-Movement-Prediction/blob/main/stock_sentiment.ipynb'>
+  <a href = 'https://github.com/SuvanshVaid27/NLP/tree/main/Stock-Movement-Prediction'>
   <img src="https://github.com/SuvanshVaid27/NLP-Projects/blob/main/images/maxim-hopman-fiXLQXAhCfk-unsplash.jpg" width="800" height = "400" title="hover text">
   </a>
 </p>
